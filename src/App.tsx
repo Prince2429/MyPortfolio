@@ -269,7 +269,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-gray-900 py-8 px-4 text-center text-gray-400">
         <div className="max-w-7xl mx-auto">
-          <p>© 2024 Alex Chen. All rights reserved.</p>
+          <p>© 2024 Pranav Dhobi. All rights reserved.</p>
           <p className="mt-2">Made with passion and code 💻</p>
         </div>
       </footer>
