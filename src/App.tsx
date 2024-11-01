@@ -129,13 +129,13 @@ function App() {
           title: "Realtime Weather Monitoring",
           description: "A comprehensive Live Weather Application delivering real-time data, trend visualizations, and customizable alerts for enhanced user insights and decision-making.",
           tech: ["React", "Flask", "MySQL", "OpenWeatherMap API", "Recharts", "Node.js", "Python"],
-          image: "Screenshot 2024-10-27 013306.png"
+          image: "/Screenshot 2024-10-27 013306.png"
         },
         {
           title: "Rule Engine with AST",
           description: "Designed a dynamic rule engine with Abstract Syntax Trees (AST) for intuitive rule evaluation, creation, and visualization, ensuring robust error handling and validation.",
           tech: ["React", "TypeScript", "Tailwind CSS", "Flask", "MySQL"],
-          image: "Screenshot 2024-10-27 013002.png"
+          image: "/Screenshot 2024-10-27 013002.png"
         },
       ].map((project, index) => (
         <div key={index} className="bg-gray-800 rounded-xl overflow-hidden hover:transform hover:scale-105 transition-transform duration-300 h-[28rem] flex flex-col justify-between"> {/* Fixed height */}
