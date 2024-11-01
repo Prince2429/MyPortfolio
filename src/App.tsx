@@ -85,7 +85,7 @@ function App() {
           <div className="mb-8 flex justify-center">
             <div className="w-32 h-32 sm:w-40 sm:h-40 rounded-full overflow-hidden ring-4 ring-blue-400 ring-offset-4 ring-offset-gray-900 mt-16 sm:mt-20">
               <img
-                src="Pranav.png"
+                src="/Pranav.png"
                 alt="Pranav Dhobi"
                 className="w-full h-full object-cover"
               />
